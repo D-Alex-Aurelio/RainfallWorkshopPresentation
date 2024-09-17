@@ -9,10 +9,10 @@ st.header("Building an Interactive Dashboard for "
 st.divider()
 st.header("Presentation Flow:")
 st.markdown("### Data Driven Management")
-st.write("What ")
+st.write("What is in the dashboard?")
 st.write(" ")
 st.markdown("### Python in Data Analysis")
-st.write("Where to code the dashboard?")
+st.write("How to code the dashboard?")
 st.write(" ")
 st.markdown("### Rainfall Dashboard Demo")
 st.page_link("https://rainfalldashboardapp-hks9gxfbbsrskaslq846ip.streamlit.app/",
