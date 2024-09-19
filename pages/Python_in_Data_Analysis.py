@@ -11,9 +11,11 @@ st.divider()
 st.header("Integrated Development Environment (IDEs)")
 st.write("### PyCharm")
 st.write("- From JetBrains, used to create Python applications")
+st.image("images/pycharm.png")
 st.write("### Google Colab / JupyterLab")
 st.write("- Uses cells to separate code into parts")
 st.write("- Optimal for step-by-step applications")
+st.image("images/google colab.png")
 
 st.divider()
 
