@@ -17,3 +17,8 @@ st.write(" ")
 st.markdown("### Rainfall Dashboard Demo")
 st.page_link("https://rainfalldashboardapp-hks9gxfbbsrskaslq846ip.streamlit.app/",
              label="Rainfall Analysis Dashboard")
+
+st.divider()
+st.markdown("### QR Codes:")
+st.image("images/PRESENTATION.png")
+st.image("images/RAINFALL DASHBOARD.png")

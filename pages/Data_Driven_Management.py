@@ -48,15 +48,20 @@ st.write("Simple and versatile with no programming skills needed")
 
 st.markdown("### MS Power BI")
 st.write("Transforms raw data into interactive visualizations")
+st.page_link("https://www.microsoft.com/en-us/download/details.aspx?id=58494",
+             label="Download Power BI desktop")
 
 st.markdown("### Structured Query Language (SQL)")
 st.write("Managing and manipulating databases")
 
 st.markdown("### R Programming")
 st.write("Specifically designed for statistical computing and graphics")
+st.page_link("https://posit.co/download/rstudio-desktop/", label="Download R and R Studio")
 
 st.markdown("### Python Programming")
 st.write("General purpose programming language with wide range of libraries")
+st.page_link("https://www.python.org/downloads/",
+        label="Download Python Language")
 
 st.divider()
 

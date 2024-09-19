@@ -12,11 +12,14 @@ st.header("Integrated Development Environment (IDEs)")
 st.write("### PyCharm")
 st.write("- From JetBrains, used to create Python applications")
 st.image("images/pycharm.png")
-st.write("### Google Colab / JupyterLab")
+st.page_link("https://www.jetbrains.com/pycharm/",
+             label="Download PyCharm")
+st.write("### Google Colab")
 st.write("- Uses cells to separate code into parts")
 st.write("- Optimal for step-by-step applications")
 st.image("images/google colab.png")
-
+st.page_link("https://colab.research.google.com/",
+             label="Try out Google Colab")
 st.divider()
 
 st.header("Python Libraries for Dashboard Creation")
